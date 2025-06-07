@@ -1,0 +1,45 @@
+Baseline model:
+Validation loss: 0.6734851013150132
+Validation accuracy: 0.49917627677100496
+Validation F1: 0.0
+Confusion matrix:
+tensor([[909.,   0.],
+        [912.,   0.]], dtype=torch.float64)
+Validation loss: 0.5675723850727081
+Validation accuracy: 0.6825919824272377
+Validation F1: 0.610512129380054
+Confusion matrix:
+tensor([[790., 119.],
+        [459., 453.]], dtype=torch.float64)
+Validation loss: 0.5026072530370009
+Validation accuracy: 0.7721032399780341
+Validation F1: 0.7664603263927968
+Confusion matrix:
+tensor([[725., 184.],
+        [231., 681.]], dtype=torch.float64)
+Validation loss: 0.49146019288322385
+Validation accuracy: 0.7781438769906645
+Validation F1: 0.780195865070729
+Confusion matrix:
+tensor([[700., 209.],
+        [195., 717.]], dtype=torch.float64)
+Validation loss: 0.5059744171928942
+Validation accuracy: 0.7913234486545854
+Validation F1: 0.8002103049421662
+Confusion matrix:
+tensor([[680., 229.],
+        [151., 761.]], dtype=torch.float64)
+Validation loss: 0.5450709459551594
+Validation accuracy: 0.7880285557386052
+Validation F1: 0.8032619775739042
+Confusion matrix:
+tensor([[647., 262.],
+        [124., 788.]], dtype=torch.float64)
+
+Test results for baseline model:
+Validation loss: 0.5740774241941315
+Validation accuracy: 0.7798165137614679
+Validation F1: 0.7917570498915402
+Confusion matrix:
+tensor([[315., 129.],
+        [ 63., 365.]], dtype=torch.float64)
